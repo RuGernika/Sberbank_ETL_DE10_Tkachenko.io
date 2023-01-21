@@ -1,0 +1,8 @@
+{ "root_path" : "/home/de10/tkch/project",
+"data_path" : "/home/de10/tkch/project/data",
+"python_script_path" : "/home/de10/tkch/project/py_scripts",
+"sql_script_path" : "/home/de10/tkch/project/sql_scripts",
+"archive_path" : "/home/de10/tkch/project/archive",
+"ddl_path" : "/home/de10/tkch/project/main.ddl"
+ }
+

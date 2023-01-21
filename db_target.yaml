@@ -1,0 +1,15 @@
+db : postgres
+dbopt : {
+'host' : '',
+'port' : 5432,
+'database' : '',
+'user' : '',
+'password' : '',
+'client_encoding' : 'utf-8',
+'connect_timeout' : 60,
+'sslmode' : 'none',
+'target_session_attrs':'read-write'
+}
+
+-- Для корректной работы укажите необходимые данные для подключения
+
